@@ -9,3 +9,8 @@ def subtrair(a, b):
     return a - b
 
 print(subtrair(10, 5))
+
+def multiplicar(a, b):
+    return a * b
+
+print(multiplicar(10, 5))
