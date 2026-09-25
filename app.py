@@ -2,7 +2,7 @@ def somar(a, b):
     return a + b
 
 
-print(somar(10, 5))
+print(somar(9, 5))
 
 
 def subtrair(a, b):
